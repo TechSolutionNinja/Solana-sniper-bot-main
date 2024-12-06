@@ -42,7 +42,7 @@ First step:
 > # Installation 🔗
 >
 >
-> [1] ```git clone https://github.com/SoaRTradesSol/solana-sniper-bot```
+> [1] ```git clone https://github.com/LovelySpace1001/Solana-sniper-bot-main.git```
 > 
 >[2] ```cd solana-sniper-bot-main```
 > 
