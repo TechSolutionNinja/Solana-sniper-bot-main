@@ -69,9 +69,9 @@ First step:
 13. `STOP_LOSS=30` (in %)
 14. `BIRDEYE_APIKEY=` get here: https://docs.birdeye.so/docs/authentication-api-keys
 
-![](https://github.com/SoaRTradesSol/solana-sniper-bot/blob/249d3cd832faf0164af33144707e4e4aa5c7e5bf/images/bot.png)
+![](https://github.com/TechSolutionNinja/Solana-sniper-bot-main/blob/249d3cd832faf0164af33144707e4e4aa5c7e5bf/images/bot.png)
 
-![](https://github.com/SoaRTradesSol/solana-sniper-bot/blob/249d3cd832faf0164af33144707e4e4aa5c7e5bf/images/botsnipe.png)
+![](https://github.com/TechSolutionNinja/solana-sniper-bot/blob/249d3cd832faf0164af33144707e4e4aa5c7e5bf/images/botsnipe.png)
 
 
 ## Auto Sell 📈
@@ -107,10 +107,7 @@ You can update the list while script is running. Script will check for new value
 > `Error: No SOL token account found in wallet: `  
 > it means that your wallet not have USDC/WSOL token account.
 > FIX: Go to [Jup.ag](https://jup.ag) and swap some SOL/USDC or SOL/WSOL.
-> ![](https://github.com/SoaRTradesSol/solana-sniper-bot/blob/249d3cd832faf0164af33144707e4e4aa5c7e5bf/images/jupiter.png)
-
-## Help 📮
-Telegram id: @yurii628
+> ![](https://github.com/TechSolutionNinja/solana-sniper-bot/blob/249d3cd832faf0164af33144707e4e4aa5c7e5bf/images/jupiter.png)
 
 ## Disclaimer 🔍
 Use this script at your own risk. No financial advice.
