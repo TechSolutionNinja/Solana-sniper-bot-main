@@ -1,4 +1,4 @@
-![Banner](https://github.com/SoaRTradesSol/solana-sniper-bot/blob/249d3cd832faf0164af33144707e4e4aa5c7e5bf/images/soarlogo.png)
+![Banner](https://github.com/TechSolutionNinja/solana-sniper-bot/blob/249d3cd832faf0164af33144707e4e4aa5c7e5bf/images/soarlogo.png)
 
 ## SOAR TRADES V1.0
 
